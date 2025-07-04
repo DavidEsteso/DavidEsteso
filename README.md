@@ -1,5 +1,6 @@
 <!-- Banner (puedes reemplazar por uno personalizado tuyo si quieres) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Hey%20there!%20I'm%20David%20Esteso&fontSize=35&fontColor=ffffff" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=header&text=Hey%20there!%20I%27m%20using%20GitHub&fontSize=40&fontColor=ffffff" alt="Hey there! I'm using GitHub" />
+
 
 <p align="center">
   <b>Engineer @ Fever🦄</b> • <i>Builder, debugger, and lifelong learner</i> 💻⚡️  
