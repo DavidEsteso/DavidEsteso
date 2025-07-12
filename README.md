@@ -11,10 +11,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Graduated from **UPV** in Computer Engineering  
-- 💼 Currently working at **Fever** — creating awesome digital experiences  
-- 🧠 Ex English & Math tutor — communication + help others = ❤️  
-- 📦 Used to run Amazon Marketplace — I love shipping... and shipped boxes  
-- ✍️ Into clean code  
+- 💼 Currently working at **Fever** — Democratizing access to culture and entertainment
+- 🧠 Ex English & Math tutor — science + help others = ❤️  
+- 📦 Used to run Amazon Marketplace
+- ✍️ Into clean code
 
 ---
 
